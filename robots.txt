@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://s92372600-sketch.github.io/FreeForm-Digital/sitemap.xml
